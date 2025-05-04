@@ -52,15 +52,15 @@ const Hero: React.FC = () => {
             <p className="text-zinc-600">Années d'expérience</p>
           </div>
           <div className="p-6 rounded-xl bg-white shadow-md hover:shadow-xl transition-shadow">
-            <p className="text-4xl font-bold text-primary mb-2">35+</p>
-            <p className="text-zinc-600">Campagnes réussies</p>
+            <p className="text-4xl font-bold text-primary mb-2">100%</p>
+            <p className="text-zinc-600">Réactivité et engagement</p>
           </div>
           <div className="p-6 rounded-xl bg-white shadow-md hover:shadow-xl transition-shadow">
-            <p className="text-4xl font-bold text-primary mb-2">20+</p>
+            <p className="text-4xl font-bold text-primary mb-2">150+</p>
             <p className="text-zinc-600">Clients satisfaits</p>
           </div>
           <div className="p-6 rounded-xl bg-white shadow-md hover:shadow-xl transition-shadow">
-            <p className="text-4xl font-bold text-primary mb-2">100%</p>
+            <p className="text-4xl font-bold text-primary mb-2">200%</p>
             <p className="text-zinc-600">Passion créative</p>
           </div>
         </div>

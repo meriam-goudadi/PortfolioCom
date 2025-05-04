@@ -41,7 +41,7 @@ const portfolioItems = [
     title: "Événement corporate",
     category: "Event",
     image: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    description: "Organisation et communication d'un événement d'entreprise pour 200 personnes."
+    description: "Organisation et communication d'un événement d'entreprise."
   },
 ];
 

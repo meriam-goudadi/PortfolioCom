@@ -4,24 +4,32 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    quote: "Mériam a transformé notre approche des réseaux sociaux. Sa stratégie nous a permis d'augmenter notre engagement de 300% en seulement 3 mois. Une professionnelle créative et efficace."
+    quote: "Mériam a transformé notre approche des réseaux sociaux. Sa stratégie nous a permis d'augmenter notre chiffre et de fidéliser plus de clients. Une professionnelle créative et efficace, toujours avec son sourire et sa bonne humeur."
   },
   {
     id: 2,
-    quote: "Sa capacité à comprendre notre vision et à la traduire en une stratégie de communication cohérente a été déterminante pour notre lancement. Je recommande vivement ses services."
+    quote: "Travailler avec Mériam a été un véritable plaisir. Elle est toujours à l'écoute, souriante, de bonne humeur, réactive et propose des idées innovantes qui font la différence. Je la recommande sans hésitation."
   },
   {
     id: 3,
-    quote: "Mériam possède ce mix parfait entre créativité et rigueur analytique. Elle a su donner une voix unique à notre marque tout en atteignant nos objectifs commerciaux."
+    quote: "Mériam a su nous guider à travers les défis du marketing digital avec brio. Sa connaissance approfondie des outils et des tendances actuelles est impressionnante."
   },
   {
     id: 4,
-    quote: "Travailler avec Mériam a été un véritable plaisir. Elle est toujours à l'écoute, réactive et propose des idées innovantes qui font la différence. Je la recommande sans hésitation."
+    quote: "Son approche personnalisée et son attention aux détails ont fait toute la différence au sein de notre équipe."
   },
   {
     id: 5,
-    quote: "Mériam a su nous guider à travers les défis du marketing digital avec brio. Sa connaissance approfondie des outils et des tendances actuelles est impressionnante."
+    quote: "Sa passion pour la communication et son expertise technique font d'elle une partenaire précieuse. Mériam a su nous aider à naviguer dans le monde complexe du marketing digital avec aisance."
   },
+  {
+    id: 6,
+    quote: "Elle a su nous apporter une vision nouvelle et rafraîchissante. Mériam est une professionnelle qui sait allier créativité et stratégie."
+  },
+  {
+    id: 7,
+    quote: "Mériam est une communicante hors pair. Elle a une capacité à créer du contenu engageant et pertinent ce qui est un atout majeur pour n'importe quelle entreprise."
+  }
 ];
 
 const Testimonials: React.FC = () => {
@@ -47,7 +55,7 @@ const Testimonials: React.FC = () => {
     <section id="testimonials" className="py-20 bg-primary/5">
       <div className="container mx-auto px-4">
         <div className="section-title">
-          <h2 className="text-center">Quelques commentaires de mes collaborateurs et collègues</h2>
+          <h2 className="text-center">Ce que l'on dit généralement de moi, professionnellement parlant :</h2>
         </div>
         
         <div className="max-w-4xl mx-auto mt-16 relative">
