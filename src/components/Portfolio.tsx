@@ -69,8 +69,8 @@ const Portfolio: React.FC = () => {
         <div className="section-title">
           <h2 className="text-center">Mon Portfolio</h2>
           <p className="text-center text-zinc-600 max-w-2xl mx-auto mb-12">
-            Découvrez quelques-uns de mes projets en communication marketing et digitale.
-            Chaque projet est unique et adapté aux objectifs spécifiques du client.
+            Découvrez ce que je vous propose pour votre communication marketing et digitale.
+            Chaque projet est unique et adapté à des objectifs et une vision spécifique.
           </p>
         </div>
         
